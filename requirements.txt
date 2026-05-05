@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+numpy
+opencv-python-headless
+onnxruntime
+scikit-learn
+scipy
+google-generativeai
+python-multipart
+gdown
+openai

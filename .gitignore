@@ -1,0 +1,99 @@
+# =========================
+
+# Python
+
+# =========================
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+*.py,cover
+
+# Virtual Environment
+
+venv/
+.env/
+.env
+
+# =========================
+
+# Logs & temp files
+
+# =========================
+
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+
+# =========================
+
+# Model files (VERY IMPORTANT)
+
+# =========================
+
+models/
+*.onnx
+*.pt
+*.pth
+*.h5
+
+# =========================
+
+# Uploaded / runtime files
+
+# =========================
+
+uploads/
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# =========================
+
+# Data (optional)
+
+# =========================
+
+# Keep CSV if needed, else ignore
+
+# data/
+
+# =========================
+
+# Jupyter / notebooks
+
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+
+# IDE / Editor
+
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+
+# OS files
+
+# =========================
+
+Thumbs.db
+
+# =========================
+
+# Build / dist
+
+# =========================
+
+build/
+dist/
+*.egg-info/
